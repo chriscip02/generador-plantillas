@@ -3,66 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Generador de Plantillas </title>
+    <title>Generador de Plantillas</title>
     <link rel="stylesheet" href="styles.css">
-    <style>
-        .container {
-            max-width: 800px;
-            margin: auto;
-            font-family: Arial, sans-serif;
-        }
-
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-
-        .section {
-            margin-bottom: 20px;
-        }
-
-        .form-grid {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 10px;
-        }
-
-        .form-group {
-            display: flex;
-            flex-direction: column;
-        }
-
-        label {
-            margin-bottom: 5px;
-            font-weight: bold;
-        }
-
-        input, textarea {
-            padding: 8px;
-            font-size: 14px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            width: 100%;
-        }
-
-        button {
-            background-color: #007BFF;
-            color: white;
-            border: none;
-            padding: 10px 15px;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 16px;
-        }
-
-        button:hover {
-            background-color: #0056b3;
-        }
-
-        textarea[readonly] {
-            background-color: #f9f9f9;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
@@ -72,6 +14,7 @@
             <label for="excel-data">Pegar fila desde Excel:</label>
             <textarea id="excel-data" rows="3" placeholder="Pega aquí la fila completa desde el control de detenidos..."></textarea>
             <button id="extract-data">Extraer Datos</button>
+            <button id="clear-data">Limpiar Datos</button>
         </div>
 
         <div class="section">
@@ -114,22 +57,31 @@
             </form>
         </div>
 
+        <div class="section buttons">
+            <button id="generate-template">Generar Plantilla</button>            
+        </div>
+
         <div class="section">
-            <button id="generate-template">Generar Plantilla</button>
+            <h2>Dirección de Correo</h2>
+            <textarea id="email-address" rows="2" readonly></textarea>
+            <button id="copy-address">Copiar Correo</button>
         </div>
 
         <div class="section">
             <h2>Asunto del Correo</h2>
-            <textarea id="email-subject" rows="2" readonly></textarea>
+            <textarea id="email-subject" rows="2"></textarea>
             <button id="copy-subject">Copiar Asunto</button>
         </div>
 
         <div class="section">
             <h2>Cuerpo del Correo</h2>
-            <textarea id="email-body" rows="8" readonly></textarea>
+            <textarea id="email-body" rows="8"></textarea>
             <button id="copy-body">Copiar Cuerpo</button>
         </div>
     </div>
+    <script src="script.js"></script>
+</body>
+</html>
 
     <script src="script.js"></script>
 </body>
