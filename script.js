@@ -75,6 +75,7 @@ Sin otro particular, saludos cordiales.`;
 // Limpiar datos
 clearDataButton.addEventListener("click", () => {
     form.reset();
+    excelDataTextareaTextarea.value = "";
     emailSubjectTextarea.value = "";
     emailBodyTextarea.value = "";
     emailAddressTextarea.value = "";
