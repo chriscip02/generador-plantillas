@@ -1,76 +1,99 @@
+/* styles.css */
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
-    margin: 0;
+    margin: 20px;
     padding: 0;
+    background-color: #f4f4f4;
     color: #333;
 }
 
 .container {
     max-width: 800px;
-    margin: 20px auto;
+    margin: 0 auto;
+    background: #fff;
     padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
     text-align: center;
-    color: #333;
-}
-
-.section {
     margin-bottom: 20px;
+    color: #0056b3;
 }
 
-.form-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
-}
-
-.form-group {
-    display: flex;
-    flex-direction: column;
-}
-
-label {
-    margin-bottom: 5px;
-    font-weight: bold;
-}
-
-input, textarea {
-    padding: 8px;
-    font-size: 14px;
+textarea, input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
     border: 1px solid #ccc;
     border-radius: 4px;
-    width: 100%;
+    font-size: 14px;
+    box-sizing: border-box;
 }
 
 button {
-    background-color: #007BFF;
-    color: white;
+    background-color: #0056b3;
+    color: #fff;
     border: none;
     padding: 10px 15px;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 14px;
+    margin: 5px 0;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #004494;
 }
 
-textarea[readonly] {
-    background-color: #f9f9f9;
-}
-
-.buttons {
+.form-row {
     display: flex;
-    gap: 10px;
-    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 20px; /* Espacio entre columnas */
 }
+
+.form-group {
+    flex: 1; /* Ajustar columnas al mismo tamaño */
+    min-width: calc(50% - 20px); /* Ajuste para mantener espacio uniforme */
+}
+
+.output-group {
+    margin-top: 20px;
+}
+
+label {
+    font-weight: bold;
+    display: block;
+}
+
+textarea[readonly], input[readonly] {
+    background-color: #e9ecef;
+    cursor: not-allowed;
+}
+
+#excel-data {
+    height: 100px;
+    resize: vertical;
+}
+
+#email-address, #email-subject, #email-body {
+    height: 80px;
+    resize: none;
+}
+
+@media (max-width: 600px) {
+    .form-row {
+        flex-direction: column;
+    }
+
+    .form-group {
+        min-width: 100%; /* Ajuste para dispositivos pequeños */
+    }
+}
+
 
 textarea[readonly] {
     background-color: #e9ecef;
