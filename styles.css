@@ -81,7 +81,7 @@ textarea[readonly], input[readonly] {
 
 #email-address, #email-subject, #email-body {
     height: 80px;
-    resize: none;
+    resize: both;
 }
 
 @media (max-width: 600px) {
