@@ -75,7 +75,7 @@ Sin otro particular, saludos cordiales.`;
 // Limpiar datos
 clearDataButton.addEventListener("click", () => {
     form.reset();
-    excelDataTextareaTextarea.value = "";
+    excelDataTextarea.value = "";
     emailSubjectTextarea.value = "";
     emailBodyTextarea.value = "";
     emailAddressTextarea.value = "";
@@ -85,21 +85,21 @@ clearDataButton.addEventListener("click", () => {
 copyAddressButton.addEventListener("click", () => {
     emailAddressTextarea.select();
     document.execCommand("copy");
-    alert("Correo copiado al portapapeles.");
+    
 });
 
 // Copiar asunto
 copySubjectButton.addEventListener("click", () => {
     emailSubjectTextarea.select();
     document.execCommand("copy");
-    alert("Asunto copiado al portapapeles.");
+    
 });
 
 // Copiar cuerpo del correo
 copyBodyButton.addEventListener("click", () => {
     emailBodyTextarea.select();
     document.execCommand("copy");
-    alert("Cuerpo del correo copiado al portapapeles.");
+    
 });
 
 
