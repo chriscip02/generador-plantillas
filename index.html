@@ -8,74 +8,71 @@
 </head>
 <body>
     <div class="container">
-        <h1>Generador de Plantillas División Enlace con el Poder Judicial y Servicios Penitenciarios</h1>
+        <h1>Generador de Plantillas División Enlace</h1>
+        
+        <textarea id="excel-data" placeholder="Pega aquí los datos desde el control de detenidos..."></textarea>
+        <button id="extract-data">Extraer Datos</button>
 
-        <div class="section">
-            <label for="excel-data">Pegar fila desde Excel:</label>
-            <textarea id="excel-data" rows="3" placeholder="Pega aquí la fila completa desde el control de detenidos..."></textarea>
-            <button id="extract-data">Extraer Datos</button>
-            <button id="clear-data">Limpiar Datos</button>
-        </div>
-
-        <div class="section">
-            <h2>Datos Extraídos</h2>
-            <form id="data-form">
-                <div class="form-grid">
-                    <div class="form-group">
-                        <label for="apellido">Apellido:</label>
-                        <input type="text" id="apellido" name="apellido">
-                    </div>
-                    <div class="form-group">
-                        <label for="nombre">Nombre:</label>
-                        <input type="text" id="nombre" name="nombre">
-                    </div>
-                    <div class="form-group">
-                        <label for="alias">Alias:</label>
-                        <input type="text" id="alias" name="alias">
-                    </div>
-                    <div class="form-group">
-                        <label for="tipo-documento">Tipo de Documento:</label>
-                        <input type="text" id="tipo-documento" name="tipo-documento">
-                    </div>
-                    <div class="form-group">
-                        <label for="nro-documento">Nro. de Documento:</label>
-                        <input type="text" id="nro-documento" name="nro-documento">
-                    </div>
-                    <div class="form-group">
-                        <label for="nro-causa">Nro. de Causa:</label>
-                        <input type="text" id="nro-causa" name="nro-causa">
-                    </div>
-                    <div class="form-group">
-                        <label for="judicatura-actuante">Judicatura Actuante:</label>
-                        <input type="text" id="judicatura-actuante" name="judicatura-actuante">
-                    </div>
-                    <div class="form-group">
-                        <label for="nro-judicatura">Nro. de Judicatura:</label>
-                        <input type="text" id="nro-judicatura" name="nro-judicatura">
-                    </div>
+        <form id="data-form">
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="apellido">Apellido:</label>
+                    <input type="text" id="apellido" name="apellido">
                 </div>
-            </form>
-        </div>
+                <div class="form-group">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre">
+                </div>
+            </div>
 
-        <div class="section buttons">
-            <button id="generate-template">Generar Plantilla</button>            
-        </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="alias">Alias:</label>
+                    <input type="text" id="alias" name="alias">
+                </div>
+                <div class="form-group">
+                    <label for="tipo-documento">Tipo de Documento:</label>
+                    <input type="text" id="tipo-documento" name="tipo-documento">
+                </div>
+            </div>
 
-        <div class="section">
-            <h2>Dirección de Correo</h2>
-            <textarea id="email-address" rows="2" readonly></textarea>
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="nro-documento">Nro. de Documento:</label>
+                    <input type="text" id="nro-documento" name="nro-documento">
+                </div>
+                <div class="form-group">
+                    <label for="nro-causa">Nro. de Causa:</label>
+                    <input type="text" id="nro-causa" name="nro-causa">
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="judicatura">Judicatura:</label>
+                    <input type="text" id="judicatura" name="judicatura">
+                </div>
+            </div>
+        </form>
+
+        <button id="generate-template">Generar Plantilla</button>
+        <button id="clear-data">Limpiar Datos</button>
+
+        <div class="output-group">
+            <label for="email-address">Correo Electrónico:</label>
+            <textarea id="email-address"></textarea>
             <button id="copy-address">Copiar Correo</button>
         </div>
 
-        <div class="section">
-            <h2>Asunto del Correo</h2>
-            <textarea id="email-subject" rows="2"></textarea>
+        <div class="output-group">
+            <label for="email-subject">Asunto del Correo:</label>
+            <textarea id="email-subject"></textarea>
             <button id="copy-subject">Copiar Asunto</button>
         </div>
 
-        <div class="section">
-            <h2>Cuerpo del Correo</h2>
-            <textarea id="email-body" rows="8"></textarea>
+        <div class="output-group">
+            <label for="email-body">Cuerpo del Correo:</label>
+            <textarea id="email-body"></textarea>
             <button id="copy-body">Copiar Cuerpo</button>
         </div>
     </div>
@@ -83,6 +80,3 @@
 </body>
 </html>
 
-    <script src="script.js"></script>
-</body>
-</html>
