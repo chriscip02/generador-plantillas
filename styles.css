@@ -23,7 +23,8 @@ h1 {
     color: #0056b3;
 }
 
-textarea, input {
+textarea,
+input {
     width: 100%;
     padding: 10px;
     margin-top: 5px;
@@ -43,6 +44,7 @@ button {
     cursor: pointer;
     font-size: 14px;
     margin: 5px 0;
+    margin-bottom: 50px;
 }
 
 button:hover {
@@ -52,12 +54,15 @@ button:hover {
 .form-row {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px; /* Espacio entre columnas */
+    gap: 20px;
+    /* Espacio entre columnas */
 }
 
 .form-group {
-    flex: 1; /* Ajustar columnas al mismo tamaño */
-    min-width: calc(50% - 20px); /* Ajuste para mantener espacio uniforme */
+    flex: 1;
+    /* Ajustar columnas al mismo tamaño */
+    min-width: calc(50% - 20px);
+    /* Ajuste para mantener espacio uniforme */
 }
 
 .output-group {
@@ -69,7 +74,8 @@ label {
     display: block;
 }
 
-textarea[readonly], input[readonly] {
+textarea[readonly],
+input[readonly] {
     background-color: #e9ecef;
     cursor: not-allowed;
 }
@@ -79,7 +85,9 @@ textarea[readonly], input[readonly] {
     resize: vertical;
 }
 
-#email-address, #email-subject, #email-body {
+#email-address,
+#email-subject,
+#email-body {
     height: 80px;
     resize: both;
 }
@@ -90,7 +98,8 @@ textarea[readonly], input[readonly] {
     }
 
     .form-group {
-        min-width: 100%; /* Ajuste para dispositivos pequeños */
+        min-width: 100%;
+        /* Ajuste para dispositivos pequeños */
     }
 }
 

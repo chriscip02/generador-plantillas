@@ -33,18 +33,36 @@
   "TRIBUNAL ORAL DE MENORES 2": "tomenores2@pjn.gov.ar",
   "TRIBUNAL ORAL DE MENORES 3": "tomenores3@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 1": "jncrimcorr1.sec105@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 2": ["jncrimcorr2@pjn.gov.ar", "jncrimcorr2.sec107@pjn.gov.ar"], 
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 3": ["jncrimcorr3@pjn.gov.ar", "jncrimcorr3.sec110@pjn.gov.ar"],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 2": [
+    "jncrimcorr2@pjn.gov.ar",
+    "jncrimcorr2.sec107@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 3": [
+    "jncrimcorr3@pjn.gov.ar",
+    "jncrimcorr3.sec110@pjn.gov.ar"
+  ],
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 4": "jncrimcorr4@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 5": "jncrimcorr5@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 6": ["jncrimcorr6@pjn.gov.ar", "jncrimcorr6.sec118@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 7": ["jncrimcorr7@pjn.gov.ar", "jncrimcorr7.sec121@pjn.gov.ar"],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 6": [
+    "jncrimcorr6@pjn.gov.ar",
+    "jncrimcorr6.sec118@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 7": [
+    "jncrimcorr7@pjn.gov.ar",
+    "jncrimcorr7.sec121@pjn.gov.ar"
+  ],
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 8": "jncrimcorr8@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 9": "jncrimcorr9@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 10": ["jncrimcorr10@pjn.gov.ar", "jncrimcorr10.sec130@pjn.gov.ar"],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 10": [
+    "jncrimcorr10@pjn.gov.ar",
+    "jncrimcorr10.sec130@pjn.gov.ar"
+  ],
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 11": "jncrimcorr11.sec133@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 12": "jncrimcorr12@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 13": ["jncrimcorr13@pjn.gov.ar", "jncrimcorr13.sec140@pjn.gov.ar"],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 13": [
+    "jncrimcorr13@pjn.gov.ar",
+    "jncrimcorr13.sec140@pjn.gov.ar"
+  ],
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 14": "jncrimcorr14@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 15": "jncrimcorr15@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 16": "jncrimcorr16@pjn.gov.ar",
@@ -52,31 +70,76 @@
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 18": "jncrimcorr18@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 19": "jncrimcorr19@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 20": "jncrimcorr20@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 21": ["jncrimcorr21@pjn.gov.ar", "jncrimcorr21.sec165@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 22": ["jncrimcorr22@pjn.gov.ar", "jncrimcorr22.sec148@pjn.gov.ar"],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 21": [
+    "jncrimcorr21@pjn.gov.ar",
+    "jncrimcorr21.sec165@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 22": [
+    "jncrimcorr22@pjn.gov.ar",
+    "jncrimcorr22.sec148@pjn.gov.ar"
+  ],
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 23": "jncrimcorr23@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 24": "jncrimcorr24@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 25": ["jncrimcorr25@pjn.gov.ar", "jncrimcorr25.sec161@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 26": "jncrimcorr26@pjn.gov.ar", 
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 25": [
+    "jncrimcorr25@pjn.gov.ar",
+    "jncrimcorr25.sec161@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 26": "jncrimcorr26@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 27": "jncrimcorr27@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 28": ["jncrimcorr28@pjn.gov.ar", "jncrimcorr28.sec142@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 29": ["jncrimcorr29@pjn.gov.ar", "jncrimcorr29.sec152@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 30": ["jncrimcorr30@pjn.gov.ar", "jncrimcorr30.sec164@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 31": ["jncrimcorr31@pjn.gov.ar", "jncrimcorr31.sec119@pjn.gov.ar"],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 28": [
+    "jncrimcorr28@pjn.gov.ar",
+    "jncrimcorr28.sec142@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 29": [
+    "jncrimcorr29@pjn.gov.ar",
+    "jncrimcorr29.sec152@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 30": [
+    "jncrimcorr30@pjn.gov.ar",
+    "jncrimcorr30.sec164@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 31": [
+    "jncrimcorr31@pjn.gov.ar",
+    "jncrimcorr31.sec119@pjn.gov.ar"
+  ],
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 32": "jncrimcorr32@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 33": "jncrimcorr33@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 34": ["jncrimcorr34@pjn.gov.ar", "jncrimcorr34.sec117@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 35": ["jncrimcorr35@pjn.gov.ar", "jncrimcorr35.sec120@pjn.gov.ar"],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 34": [
+    "jncrimcorr34@pjn.gov.ar",
+    "jncrimcorr34.sec117@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 35": [
+    "jncrimcorr35@pjn.gov.ar",
+    "jncrimcorr35.sec120@pjn.gov.ar"
+  ],
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 36": "jncrimcorr36@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 37": "jncrimcorr37@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 38": ["jncrimcorr38@pjn.gov.ar", "jncrimcorr38.sec132@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 39": ["jncrimcorr39@pjn.gov.ar", "jncrimcorr39.sec135@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 40": ["jncrimcorr40@pjn.gov.ar", "jncrimcorr40.sec139@pjn.gov.ar"],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 38": [
+    "jncrimcorr38@pjn.gov.ar",
+    "jncrimcorr38.sec132@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 39": [
+    "jncrimcorr39@pjn.gov.ar",
+    "jncrimcorr39.sec135@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 40": [
+    "jncrimcorr40@pjn.gov.ar",
+    "jncrimcorr40.sec139@pjn.gov.ar"
+  ],
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 41": "jncrimcorr41@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 42": ["jncrimcorr42@pjn.gov.ar", "jncrimcorr42.sec106@pjn.gov.ar"],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 42": [
+    "jncrimcorr42@pjn.gov.ar",
+    "jncrimcorr42.sec106@pjn.gov.ar"
+  ],
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 43": "jncrimcorr43@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 44": ["jncrimcorr44@pjn.gov.ar", "jncrimcorr44.sec115@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 45": ["jncrimcorr45@pjn.gov.ar", "jncrimcorr45.sec122@pjn.gov.ar"],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 44": [
+    "jncrimcorr44@pjn.gov.ar",
+    "jncrimcorr44.sec115@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 45": [
+    "jncrimcorr45@pjn.gov.ar",
+    "jncrimcorr45.sec122@pjn.gov.ar"
+  ],
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 46": "jncrimcorr46.sec134@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 47": "jncrimcorr47@pjn.gov.ar",
   "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL 48": "jncrimcorr48@pjn.gov.ar",
@@ -114,35 +177,205 @@
   "TRIBUNAL ORAL EN LO CRIMINAL FEDERAL 6": "tocrimfed6@pjn.gov.ar",
   "TRIBUNAL ORAL EN LO CRIMINAL FEDERAL 7": "tocrimfed7@pjn.gov.ar",
   "TRIBUNAL ORAL EN LO CRIMINAL FEDERAL 8": "tocrimfed8@pjn.gov.ar",
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 1": ["jncrimcorrfed1@pjn.gov.ar", "jncrimcorrfed1.sec1@pjn.gov.ar", "jncrimcorrfed1.sec2@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 2": ["jncrimcorrfed2@pjn.gov.ar", "jncrimcorrfed2.sec3@pjn.gov.ar", "jncrimcorrfed2.sec4@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 3": ["jncrimcorrfed3@pjn.gov.ar", "jncrimcorrfed3.sec5@pjn.gov.ar", "jncrimcorrfed3.sec6@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 4": ["jncrimcorrfed4@pjn.gov.ar", "jncrimcorrfed4.sec7@pjn.gov.ar", "jncrimcorrfed4.sec8@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 5": ["jncrimcorrfed5@pjn.gov.ar", "jncrimcorrfed5.sec9@pjn.gov.ar", "jncrimcorrfed5.sec10@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 6": ["jncrimcorrfed6@pjn.gov.ar", "jncrimcorrfed6.sec11@pjn.gov.ar", "jncrimcorrfed6.sec12@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 7": ["jncrimcorrfed7@pjn.gov.ar", "jncrimcorrfed7.sec13@pjn.gov.ar", "jncrimcorrfed7.sec14@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 8": ["jncrimcorrfed8@pjn.gov.ar", "jncrimcorrfed8.sec15@pjn.gov.ar", "jncrimcorrfed8.sec16@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 9": ["jncrimcorrfed9@pjn.gov.ar", "jncrimcorrfed9.sec17@pjn.gov.ar", "jncrimcorrfed9.sec18@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 10": ["jncrimcorrfed10@pjn.gov.ar", "jncrimcorrfed10.sec19@pjn.gov.ar", "jncrimcorrfed10.sec20@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 11": ["jncrimcorrfed11@pjn.gov.ar", "jncrimcorrfed11.sec21@pjn.gov.ar", "jncrimcorrfed11.sec22@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 12": ["jncrimcorrfed12@pjn.gov.ar", "jncrimcorrfed12.sec23@pjn.gov.ar", "jncrimcorrfed12.sec24@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 1": ["jnpenalec1@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 2": ["jnpenalec2@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 3": ["jnpenalec3@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 4": ["jnpenalec4@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 5": ["jnpenalec5@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 6": ["jnpenalec6@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 7": ["jnpenalec7@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 8": ["jnpenalec8@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 9": ["jnpenalec9@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 10": ["jnpenalec10@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 11": ["jnpenalec11@pjn.gov.ar"],
-  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 12": ["jnpenalec12@pjn.gov.ar"],
-  "TRIBUNAL ORAL EN LO PENAL ECONOMICO 1": ["topenalec1@pjn.gov.ar"],
-  "TRIBUNAL ORAL EN LO PENAL ECONOMICO 2": ["topenalec2@pjn.gov.ar"],
-  "TRIBUNAL ORAL EN LO PENAL ECONOMICO 3": ["topenalec3@pjn.gov.ar"],
-  "TRIBUNAL ORAL EN LO PENAL ECONOMICO 4": ["topenalec4@pjn.gov.ar"]
-  
-  
-
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 1": [
+    "jncrimcorrfed1@pjn.gov.ar",
+    "jncrimcorrfed1.sec1@pjn.gov.ar",
+    "jncrimcorrfed1.sec2@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 2": [
+    "jncrimcorrfed2@pjn.gov.ar",
+    "jncrimcorrfed2.sec3@pjn.gov.ar",
+    "jncrimcorrfed2.sec4@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 3": [
+    "jncrimcorrfed3@pjn.gov.ar",
+    "jncrimcorrfed3.sec5@pjn.gov.ar",
+    "jncrimcorrfed3.sec6@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 4": [
+    "jncrimcorrfed4@pjn.gov.ar",
+    "jncrimcorrfed4.sec7@pjn.gov.ar",
+    "jncrimcorrfed4.sec8@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 5": [
+    "jncrimcorrfed5@pjn.gov.ar",
+    "jncrimcorrfed5.sec9@pjn.gov.ar",
+    "jncrimcorrfed5.sec10@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 6": [
+    "jncrimcorrfed6@pjn.gov.ar",
+    "jncrimcorrfed6.sec11@pjn.gov.ar",
+    "jncrimcorrfed6.sec12@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 7": [
+    "jncrimcorrfed7@pjn.gov.ar",
+    "jncrimcorrfed7.sec13@pjn.gov.ar",
+    "jncrimcorrfed7.sec14@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 8": [
+    "jncrimcorrfed8@pjn.gov.ar",
+    "jncrimcorrfed8.sec15@pjn.gov.ar",
+    "jncrimcorrfed8.sec16@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 9": [
+    "jncrimcorrfed9@pjn.gov.ar",
+    "jncrimcorrfed9.sec17@pjn.gov.ar",
+    "jncrimcorrfed9.sec18@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 10": [
+    "jncrimcorrfed10@pjn.gov.ar",
+    "jncrimcorrfed10.sec19@pjn.gov.ar",
+    "jncrimcorrfed10.sec20@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 11": [
+    "jncrimcorrfed11@pjn.gov.ar",
+    "jncrimcorrfed11.sec21@pjn.gov.ar",
+    "jncrimcorrfed11.sec22@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO CRIMINAL Y CORRECCIONAL FEDERAL 12": [
+    "jncrimcorrfed12@pjn.gov.ar",
+    "jncrimcorrfed12.sec23@pjn.gov.ar",
+    "jncrimcorrfed12.sec24@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 1": [
+    "jnpenalec1@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 2": [
+    "jnpenalec2@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 3": [
+    "jnpenalec3@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 4": [
+    "jnpenalec4@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 5": [
+    "jnpenalec5@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 6": [
+    "jnpenalec6@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 7": [
+    "jnpenalec7@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 8": [
+    "jnpenalec8@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 9": [
+    "jnpenalec9@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 10": [
+    "jnpenalec10@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 11": [
+    "jnpenalec11@pjn.gov.ar"
+  ],
+  "JUZGADO NACIONAL EN LO PENAL ECONOMICO 12": [
+    "jnpenalec12@pjn.gov.ar"
+  ],
+  "TRIBUNAL ORAL EN LO PENAL ECONOMICO 1": [
+    "topenalec1@pjn.gov.ar"
+  ],
+  "TRIBUNAL ORAL EN LO PENAL ECONOMICO 2": [
+    "topenalec2@pjn.gov.ar"
+  ],
+  "TRIBUNAL ORAL EN LO PENAL ECONOMICO 3": [
+    "topenalec3@pjn.gov.ar"
+  ],
+  "TRIBUNAL ORAL EN LO PENAL ECONOMICO 4": [
+    "topenalec4@pjn.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 1": [
+    "juzcyf1@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 2": [
+    "juzcyf2@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 3": [
+    "juzcyf3@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 4": [
+    "juzcyf4@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 5": [
+    "juzcyf5@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 6": [
+    "juzcyf6@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 7": [
+    "juzcyf7@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 8": [
+    "juzcyf8@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 9": [
+    "juzcyf9@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 10": [
+    "juzcyf10@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 11": [
+    "juzcyf11@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 12": [
+    "juzcyf12@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 13": [
+    "juzcyf13@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 14": [
+    "juzcyf14@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 15": [
+    "juzcyf15@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 16": [
+    "juzcyf16@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 17": [
+    "juzcyf17@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 18": [
+    "juzcyf18@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 19": [
+    "juzcyf19@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 20": [
+    "juzcyf20@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 21": [
+    "juzcyf21@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 22": [
+    "juzcyf22@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 23": [
+    "juzcyf23@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 24": [
+    "juzcyf24@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 25": [
+    "juzcyf25@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 26": [
+    "juzcyf26@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 27": [
+    "juzcyf27@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 28": [
+    "juzcyf28@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 29": [
+    "juzcyf29@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 30": [
+    "juzcyf30@jusbaires.gov.ar"
+  ],
+  "JUZGADO PENAL, CONTRAVENCIONAL Y DE FALTAS 31": [
+    "juzcyf31@jusbaires.gov.ar"
+  ]
 }

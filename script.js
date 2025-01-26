@@ -85,21 +85,21 @@ clearDataButton.addEventListener("click", () => {
 copyAddressButton.addEventListener("click", () => {
     emailAddressTextarea.select();
     document.execCommand("copy");
-    
+
 });
 
 // Copiar asunto
 copySubjectButton.addEventListener("click", () => {
     emailSubjectTextarea.select();
     document.execCommand("copy");
-    
+
 });
 
 // Copiar cuerpo del correo
 copyBodyButton.addEventListener("click", () => {
     emailBodyTextarea.select();
     document.execCommand("copy");
-    
+
 });
 
 
