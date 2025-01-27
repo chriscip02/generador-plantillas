@@ -58,12 +58,12 @@ generateTemplateButton.addEventListener("click", async () => {
 
     emailAddressTextarea.value = emailAddress;
 
-    emailSubjectTextarea.value = `Solicitud de derivación al SPF - Causa Nro. ${nroCausa}`;
-    emailBodyTextarea.value = `Buenos días, por medio de la presente solicito el OFICIO/MAIL DE DERIVACIÓN AL S.P.F. del Detenido ${apellido} ${nombre}${alias ? ", alias " + alias : ""}, ${tipoDocumento} ${nroDocumento}, CAUSA NRO. ${nroCausa}.
+    emailSubjectTextarea.value = `Solicitud de derivación al SPF y si corresponde sentencia y computo - Causa Nro. ${nroCausa}`;
+    emailBodyTextarea.value = `Buenos días, por medio de la presente solicito el OFICIO/MAIL DE DERIVACIÓN AL S.P.F. y solo de corresponder SENTENCIA Y COMPUTO del Detenido ${apellido} ${nombre}${alias ? ", alias " + alias : ""}, ${tipoDocumento} ${nroDocumento}, CAUSA NRO. ${nroCausa}.
 
 Por favor se solicita que el OFICIO esté:
 
-- DIRIGIDO AL DIRECTOR DEL S.P.F.
+- DIRIGIDO AL DIRECTOR DEL S.P.F., para que esta policia lo diligencie
 - Determine DELITO COMPLETO (sin puntos suspensivos)
 - NRO DE CAUSA
 
